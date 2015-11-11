@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RssNavarra</string>
+
+    <string name="lblMainTitle">RSS de actualidad</string>
+    <string name="title_activity_tema">TemaActivity</string>
+
+    <string name="url">http://www.navarra.es/home_es/Actualidad/Sala+de+prensa/Noticias/rss.htm</string>
+
+    <string name="logError">LOG_RSS_NAVARRA</string>
+    <string name="urlError">Problema con la URL</string>
+    <string name="conError">Error de conexión</string>
+    <string name="rssError">Error de proceso de rss</string>
+
+    <string name="tema0">Todos los temas</string>
+    <string name="tema1">Asuntos sociales</string>
+    <string name="tema2">Cultura y turismo</string>
+    <string name="tema3">Deporte</string>
+    <string name="tema4">Desarrollo rural</string>
+    <string name="tema5">Educación y formación</string>
+    <string name="tema6">Empleo y economía</string>
+    <string name="tema7">Entidades locales</string>
+    <string name="tema8">Gobierno</string>
+    <string name="tema9">Hacienda</string>
+    <string name="tema10">Igualdad de género</string>
+    <string name="tema11">Interior y Justicia</string>
+    <string name="tema12">Juventud</string>
+    <string name="tema13">Medio ambiente</string>
+    <string name="tema14">Obras públicas y transportes</string>
+    <string name="tema15">Promoción del vascuence</string>
+    <string name="tema16">Relaciones institucionales</string>
+    <string name="tema17">Salud y consumo</string>
+    <string name="tema18">Seguridad y emergencias</string>
+    <string name="tema19">Sociedad de la información</string>
+    <string name="tema20">Vivienda y Territorio</string>
+
+</resources>

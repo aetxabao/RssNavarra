@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombreTema">
+        <item>@string/tema0</item>
+        <item>@string/tema1</item>
+        <item>@string/tema2</item>
+        <item>@string/tema3</item>
+        <item>@string/tema4</item>
+        <item>@string/tema5</item>
+        <item>@string/tema6</item>
+        <item>@string/tema7</item>
+        <item>@string/tema8</item>
+        <item>@string/tema9</item>
+        <item>@string/tema10</item>
+        <item>@string/tema11</item>
+        <item>@string/tema12</item>
+        <item>@string/tema13</item>
+        <item>@string/tema14</item>
+        <item>@string/tema15</item>
+        <item>@string/tema16</item>
+        <item>@string/tema17</item>
+        <item>@string/tema18</item>
+        <item>@string/tema19</item>
+        <item>@string/tema20</item>
+    </string-array>
+    <string-array name="numTema">
+        <item>0</item>
+        <item>14</item>
+        <item>1</item>
+        <item>11</item>
+        <item>27</item>
+        <item>21</item>
+        <item>2</item>
+        <item>6</item>
+        <item>24</item>
+        <item>28</item>
+        <item>13</item>
+        <item>25</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+        <item>29</item>
+        <item>4</item>
+        <item>9</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+</resources>
